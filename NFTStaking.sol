@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.4;
 
 import "https://github.com/jivnshet/smart-contracts/blob/main/NTHRRewards.sol";
 import "https://github.com/jivnshet/smart-contracts/blob/main/Collection.sol";
